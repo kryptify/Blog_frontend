@@ -16,7 +16,7 @@ import BlogToolbar from './BlogToolbar'
 
 export default function BlogList({title, categories}) {
     // const BASE_URL = 'http://localhost:5000/api';
-    const BASE_URL = 'https://blog-backend-blue.vercel.app/api';
+    const BASE_URL = 'https://blog-backend-wfo2.onrender.com/api';
 
 
     const [page, setPage] = useState(0);
